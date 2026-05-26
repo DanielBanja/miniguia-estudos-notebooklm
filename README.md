@@ -26,9 +26,9 @@ As seguintes fontes foram utilizadas e carregadas no NotebookLM:
 
 📄 https://www.ibm.com/br-pt/topics/artificial-intelligence
 
-2. IA no Setor Financeiro
+2. Google Machine Learning Crash Course
 
-📄 https://www.deloitte.com/br/pt/services/consulting/perspectives/inteligencia-artificial-setor-financeiro.html
+📄 https://developers.google.com/machine-learning/crash-course?utm_source=chatgpt.com&hl=pt-br
 
 3. Machine Learning para Negócios
 
@@ -41,6 +41,28 @@ As seguintes fontes foram utilizadas e carregadas no NotebookLM:
 5. Relatório de Tendências em IA
 
 📄 https://www.weforum.org/reports/artificial-intelligence-and-machine-learning
+
+6. World Economic Forum – Transformação Organizacional com IA
+
+📄 https://www.weforum.org/publications/organizational-transformation-in-the-age-of-ai-how-organizations-maximize-ais-potential/
+
+7. Stanford AI Index Report 2025
+
+📄 https://arxiv.org/abs/2504.07139
+
+🎥 Youtube
+
+1. IA aplicada ao setor bancário
+
+📄 https://www.youtube.com/watch?v=atrdkKbW5Uo
+
+2. Curso completo de Inteligência Artificial
+
+📄 https://www.youtube.com/watch?v=FkqINm-l3q0
+
+3. IA para Finanças
+
+📄 https://www.youtube.com/watch?v=StMulW7SOmM
 
 🤖 Engenharia de Prompts e Aprendizados
 
