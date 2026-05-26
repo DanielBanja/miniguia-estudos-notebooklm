@@ -4,6 +4,8 @@ Inteligência Artificial Aplicada à Gestão Comercial Bancária
 
 📚 Caderno Temático com NotebookLM: Inteligência Artificial Aplicada à Gestão Comercial Bancária
 
+📄 https://notebooklm.google.com/notebook/7d2f1e59-88e5-4617-9491-f7ec482139d0
+
 🎯 Contexto e Objetivos
 
 Este projeto foi desenvolvido com o objetivo de explorar o potencial do NotebookLM como ferramenta de estudo e organização do conhecimento utilizando Inteligência Artificial.
